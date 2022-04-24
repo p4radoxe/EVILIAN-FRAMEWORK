@@ -1,8 +1,8 @@
 # REQUIREMENTS
 REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
-apksigner
-zipalign
-openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
+ apksigner
+ zipalign
+ openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # EVILIAN-FRAMEWORK
 Make simple Payload (with meterpreter shell)
