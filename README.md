@@ -1,3 +1,12 @@
+# SCREENSHOT![Screenshot_20220425_163139](https://user-images.githubusercontent.com/102639409/165076948-72e58813-8f47-4cc7-a4bd-a940570dbff6.png)
+
+
+
+
+
+
+
+
 # REQUIREMENTS
 1) REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
 2) apksigner
