@@ -1,8 +1,8 @@
 # REQUIREMENTS
-REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
-apksigner
-zipalign
-openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
+1 REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
+2 apksigner
+3 zipalign
+4openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
 1) Run with root user (sudo su)
@@ -13,8 +13,9 @@ openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 4) chmod +x apktool 
 5) chmod +x apktool.jar 
 6) cp -r apktool /usr/local/bin
-7) chmod +x evilian
-8) ./evilion
+7) cp -r apktool.jar /usr/local/bin
+8) chmod +x evilian
+9) ./evilion
 
 
 
