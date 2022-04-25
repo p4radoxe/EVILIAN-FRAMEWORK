@@ -1,20 +1,9 @@
-# SCREENSHOT
+# EVILIAN-FRAMEWORK
+![Screenshot_20220425_163254](https://user-images.githubusercontent.com/102639409/165077681-c3a8b505-6a7f-4269-9732-835fa7544c18.png)
 
+# SCREENSHOT
 ![Screenshot_20220425_163254](https://user-images.githubusercontent.com/102639409/165077263-100deacc-92d0-44bc-9110-3774dddc5105.png)
 ![Screenshot_20220425_163139](https://user-images.githubusercontent.com/102639409/165077336-a5a1b418-0971-40a0-b4cf-d12c37c3c0a5.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # REQUIREMENTS
 1) REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
