@@ -12,7 +12,7 @@
 4) openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
-1) This TOOL is in BETA mode ,so if you bind payload with other apk change your apk name to tech.apk the put it on evilian folder
+1) This TOOL is in BETA mode if you have any issue please report us in issue section .
 2) Run with root user (sudo su)
 3) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
 4) cd EVILIAN-FRAMEWORK  
