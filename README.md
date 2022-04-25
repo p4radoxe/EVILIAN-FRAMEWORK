@@ -6,7 +6,9 @@ openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
 Run with root user (sudo su)
+
 git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
+
 cd EVILIAN-FRAMEWORK  
 chmod +x apktool 
 chmod +x apktool.jar 
