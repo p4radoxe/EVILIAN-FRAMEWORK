@@ -5,15 +5,16 @@ zipalign
 openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
-Run with root user (sudo su)
+1) Run with root user (sudo su)
 
-git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
+2) gitclone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
 
-cd EVILIAN-FRAMEWORK  
-chmod +x apktool 
-chmod +x apktool.jar 
-chmod +x evilian
-./evilion
+3) cd EVILIAN-FRAMEWORK  
+4) chmod +x apktool 
+5) chmod +x apktool.jar 
+6) cp -r apktool /usr/local/bin
+7) chmod +x evilian
+8) ./evilion
 
 
 
