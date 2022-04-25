@@ -5,20 +5,16 @@
 4) openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
-1) Run with root user (sudo su)
-
-2) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
-
-3) cd EVILIAN-FRAMEWORK  
-4) chmod +x apktool 
-5) chmod +x apktool.jar 
-6) cp -r apktool /usr/local/bin
-7) cp -r apktool.jar /usr/local/bin
-8) chmod +x evilian
-9) ./evilion
-
-
-
+1) This TOOL is in BETA mode ,so if you bind payload with other apk change your apk name to tech.apk the put it on evilian folder
+2) Run with root user (sudo su)
+3) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
+4) cd EVILIAN-FRAMEWORK  
+5) chmod +x apktool 
+6) chmod +x apktool.jar 
+7) cp -r apktool /usr/local/bin
+8) cp -r apktool.jar /usr/local/bin
+9) chmod +x evilian
+10) ./evilion
 
 # EVILIAN-FRAMEWORK
 Make simple Payload (with meterpreter shell)
