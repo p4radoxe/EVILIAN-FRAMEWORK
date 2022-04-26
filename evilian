@@ -50,9 +50,9 @@ echo -e $green "BEFORE RUN THIS TOOL MAKE SURE YOU HAVE INSTALL THIS TOOLS:"
 echo -e $green "--> zipalign       - (sudo apt install zipalign)"
 echo -e $green "--> apksigner      - (sudo apt install apksigner)"
 echo -e $green"--> openjdk-11-jdk - (sudo apt install openjdk-11-jdk)"
-xterm -e apt install apksigner
-xterm -e apt install zipalign
-xterm -e apt install openjdk-8-jdk
+xterm -e apt install apksigner -y
+xterm -e apt install zipalign -y
+xterm -e apt install openjdk-11-jdk -y
 xterm -e cp -r apktool.jar /usr/local/bin/
 xterm -e cp -r apktool /usr/local/bin/
 xterm -e chmod +x /usr/local/bin/apktool.jar
