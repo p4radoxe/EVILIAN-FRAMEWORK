@@ -16,12 +16,8 @@
 2) Run with root user (sudo su)
 3) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
 4) cd EVILIAN-FRAMEWORK  
-5) chmod +x apktool 
-6) chmod +x apktool.jar 
-7) cp -r apktool /usr/local/bin
-8) cp -r apktool.jar /usr/local/bin
-9) chmod +x evilian
-10) ./evilion
+5) chmod +x evilian
+6) ./evilion
 
 # EVILIAN-FRAMEWORK
 Make simple Payload (with meterpreter shell)
