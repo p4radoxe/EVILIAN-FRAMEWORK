@@ -9,7 +9,7 @@
 1) REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
 2) apksigner
 3) zipalign
-4) openjdk-11-jk (maybe works with openjdk-8-jdk i'm not sure).
+4) openjdk-11-jdk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
 1) This TOOL is in BETA mode if you have any issue please report us in issue section .
