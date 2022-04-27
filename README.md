@@ -12,12 +12,11 @@
 4) openjdk-11-jdk (maybe works with openjdk-8-jdk i'm not sure).
 
 # INSTALLATION
-1) This TOOL is in BETA mode if you have any issue please report us in issue section .
-2) Run with root user (sudo su)
-3) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
-4) cd EVILIAN-FRAMEWORK  
-5) chmod +x evilian
-6) ./evilion
+1) Run with root user (sudo su)
+2) git clone https://github.com/official-exploiterarmy/EVILIAN-FRAMEWORK 
+3) cd EVILIAN-FRAMEWORK  
+4) chmod +x evilian
+5) ./evilion
 
 # EVILIAN-FRAMEWORK
 Make simple Payload (with meterpreter shell)
