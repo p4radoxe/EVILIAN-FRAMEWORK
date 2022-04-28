@@ -10,6 +10,7 @@
 2) apksigner
 3) zipalign
 4) openjdk-11-jdk (maybe works with openjdk-8-jdk i'm not sure).
+5) Move your Legit APK to EVILION-FRAMEWORK Directory.
 
 # INSTALLATION
 1) Run with root user (sudo su)
