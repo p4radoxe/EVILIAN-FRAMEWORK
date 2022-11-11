@@ -1,4 +1,4 @@
-# EVILIAN-FRAMEWORK
+# EVILIAN-FRAMEWORK v.2
 ![Screenshot_20220425_163254](https://user-images.githubusercontent.com/102639409/165077681-c3a8b505-6a7f-4269-9732-835fa7544c18.png)
 
 # SCREENSHOT
@@ -7,8 +7,8 @@
 
 # REQUIREMENTS
 1) REMOVE APKTOOL FROM YOUR SYSTEM (KALI_LINUX / UBUNTU).
-2) apksigner
-3) zipalign
+2) Install Apktool manually (as shown on video: https://www.youtube.com/watch?v=u2HhrzywrSo)
+3) zipalign,apksigner
 4) openjdk-11-jdk (maybe works with openjdk-8-jdk i'm not sure).
 5) Move your Legit APK to EVILION-FRAMEWORK Directory.
 6) update your jdk version (sudo update-alternatives --config java ) to ( java-11-openjdk )
